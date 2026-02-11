@@ -130,13 +130,13 @@ L["handler_tooltip_not_discovered"] = "еще не обнаружен"
 
 ----------------------------------------------MIDNIGHT----------------------------------------------
 
--- L["Eversong Rootway"] = ""
--- L["Harandar Rootway"] = ""
--- L["Portal to Harandar"] = ""
--- L["Rootway to Harandar"] = ""
--- L["Portal to Voidstorm"] = ""
--- L["Portal to Silvermoon City"] = ""
--- L["Portal to Ghostlands"] = ""
+L["Eversong Rootway"] = ""
+L["Harandar Rootway"] = ""
+L["Portal to Harandar"] = "Портал в Харандар"
+L["Rootway to Harandar"] = ""
+L["Portal to Voidstorm"] = "Портал в Буря Бездны"
+L["Portal to Silvermoon City"] = "Портал в Луносвет"
+L["Portal to Ghostlands"] = "Портал в Призрачные земли"
 
 -------------------------------------------------TWW------------------------------------------------
 
